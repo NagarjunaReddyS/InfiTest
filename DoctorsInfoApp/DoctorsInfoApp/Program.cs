@@ -29,9 +29,10 @@ foreach (var doctor in lstDoctores)
     sb.Append($"Doctor:{doctor.firstname}  {doctor.lastname} Age {doctor.age},");
     doctor.Patients.ForEach(x =>
     {
-        sb.Append($"Patients:{x.firstname}  {x.lastname} ({x.time}) Age {doctor.age}");
+        sb.Append($"Patients:{x.firstname}  {x.lastname} ({x.time}) Age {x.age},");
     });
-    Console.WriteLine(sb);
+    var outPut = sb.ToString().Remove(sb.ToString().LastIndexOf(','));
+    Console.WriteLine(outPut);
 }
 
 Console.Read();
