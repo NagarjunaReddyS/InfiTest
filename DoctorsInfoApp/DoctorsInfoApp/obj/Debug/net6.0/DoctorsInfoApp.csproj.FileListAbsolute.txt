@@ -1,0 +1,15 @@
+C:\Gitdemo3\DotNet6\DoctorsInfoApp\DoctorsInfoApp\bin\Debug\net6.0\DoctorsInfoApp.exe
+C:\Gitdemo3\DotNet6\DoctorsInfoApp\DoctorsInfoApp\bin\Debug\net6.0\DoctorsInfoApp.deps.json
+C:\Gitdemo3\DotNet6\DoctorsInfoApp\DoctorsInfoApp\bin\Debug\net6.0\DoctorsInfoApp.runtimeconfig.json
+C:\Gitdemo3\DotNet6\DoctorsInfoApp\DoctorsInfoApp\bin\Debug\net6.0\DoctorsInfoApp.dll
+C:\Gitdemo3\DotNet6\DoctorsInfoApp\DoctorsInfoApp\bin\Debug\net6.0\DoctorsInfoApp.pdb
+C:\Gitdemo3\DotNet6\DoctorsInfoApp\DoctorsInfoApp\obj\Debug\net6.0\DoctorsInfoApp.csproj.AssemblyReference.cache
+C:\Gitdemo3\DotNet6\DoctorsInfoApp\DoctorsInfoApp\obj\Debug\net6.0\DoctorsInfoApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Gitdemo3\DotNet6\DoctorsInfoApp\DoctorsInfoApp\obj\Debug\net6.0\DoctorsInfoApp.AssemblyInfoInputs.cache
+C:\Gitdemo3\DotNet6\DoctorsInfoApp\DoctorsInfoApp\obj\Debug\net6.0\DoctorsInfoApp.AssemblyInfo.cs
+C:\Gitdemo3\DotNet6\DoctorsInfoApp\DoctorsInfoApp\obj\Debug\net6.0\DoctorsInfoApp.csproj.CoreCompileInputs.cache
+C:\Gitdemo3\DotNet6\DoctorsInfoApp\DoctorsInfoApp\obj\Debug\net6.0\DoctorsInfoApp.dll
+C:\Gitdemo3\DotNet6\DoctorsInfoApp\DoctorsInfoApp\obj\Debug\net6.0\refint\DoctorsInfoApp.dll
+C:\Gitdemo3\DotNet6\DoctorsInfoApp\DoctorsInfoApp\obj\Debug\net6.0\DoctorsInfoApp.pdb
+C:\Gitdemo3\DotNet6\DoctorsInfoApp\DoctorsInfoApp\obj\Debug\net6.0\DoctorsInfoApp.genruntimeconfig.cache
+C:\Gitdemo3\DotNet6\DoctorsInfoApp\DoctorsInfoApp\obj\Debug\net6.0\ref\DoctorsInfoApp.dll

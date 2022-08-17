@@ -1,0 +1,12 @@
+select e.emp_id,e.doj, e.emp_name, CASE WHEN eip.emp_id IS NULL THEN 'True' ELSE 'False' END as EMPID_EXIST  from employee as e left outer join emp_insurance_plan as eip  on e.emp_id = eip.emp_id
+
+
+select e.emp_id,e.doj, e.emp_name, CASE WHEN eip.is_active=1 THEN '1' ELSE '0' END as Status  from employee as e left outer join emp_insurance_plan as eip  on e.emp_id = eip.emp_id
+
+
+
+
+
+
+
+
